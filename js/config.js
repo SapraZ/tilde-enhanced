@@ -16,7 +16,7 @@ const CONFIG = {
       category: 'General',
       name: 'Mail',
       key: 'm',
-      url: 'https://gmail.com',
+      url: 'https://mail.protonmail.com/',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'mail',
