@@ -10,7 +10,7 @@ const CONFIG = {
       name: 'Whoogle',
       key: '*',
       url: 'https://whoogle.sapraz-server.duckdns.org',
-      search: '/search?q={}'
+      search: '/search?q=%s'
     },
     {
       category: 'General',
