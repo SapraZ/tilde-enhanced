@@ -134,11 +134,11 @@ const CONFIG = {
     },
     {
       category: 'Fun',
-      name: 'Netflix',
+      name: 'Plex',
       key: 'n',
-      url: 'https://www.netflix.com',
+      url: 'https://www.plex.tv',
       color: 'linear-gradient(135deg, #E50914, #CB020C)',
-      icon: 'netflix',
+      icon: 'plex',
       quickLaunch: false,
     },
     {
@@ -175,11 +175,11 @@ const CONFIG = {
     },
     {
       category: 'Other',
-      name: 'Instagram',
+      name: '4chan',
       key: 'i',
-      url: 'https://www.instagram.com',
+      url: 'https://www.4chan.org',
       color: 'linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)',
-      icon: 'instagram',
+      icon: '4chan',
       quickLaunch: true,
     },
     {
